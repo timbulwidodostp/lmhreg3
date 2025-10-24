@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'lmhreg3': Overall System Heteroscedasticity Tests after (3SLS-SURE) Regressions Use lmhreg3 With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F lmhreg3.ado
+F lmhreg3.dlg
+F lmhreg3.sthlp
