@@ -1,6 +1,8 @@
 # lmhreg3
 Overall System Heteroscedasticity Tests after (3SLS-SURE) Regressions Use lmhreg3 With STATA 19
 
+https://www.youtube.com/watch?v=gLouiSqu9pk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
